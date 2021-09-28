@@ -1,5 +1,5 @@
 /*
- *  UCF COP3330 Fall 2021 Exercise 31 Solution
+ *  UCF COP3330 Fall 2021 Exercise 32 Solution
  *  Copyright 2021 Patrick Iannini
  */
 package ex32;
